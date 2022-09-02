@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UrbanDictionaryBuddy</string>
+    <string name="word">Word</string>
+    <string name="definition">Definition</string>
+    <string name="dislikes">Dislikes</string>
+    <string name="likes">Likes</string>
+    <string name="search">Search</string>
+    <string name="enter_term_here">Enter term here!</string>
+</resources>
